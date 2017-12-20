@@ -6,4 +6,6 @@ public class Demo{
 class{
 	hello
 }
-	
+class{
+	haha
+}
