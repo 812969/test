@@ -9,3 +9,6 @@ class{
 class{
 	haha
 }
+class{
+	dao
+}
